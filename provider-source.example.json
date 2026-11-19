@@ -1,0 +1,12 @@
+{
+  "id": "codex_bridge",
+  "provider": "openai",
+  "type": "openai_chat_completion",
+  "provider_type": "chat_completion",
+  "enable": true,
+  "api_base": "http://127.0.0.1:8787/v1",
+  "key": ["<your locally generated bridge key>"],
+  "timeout": 210,
+  "proxy": "",
+  "custom_headers": {}
+}
